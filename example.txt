@@ -1,0 +1,10 @@
+env_empty
+type_const 0 K
+type_arrow 1 1
+env_x 2 y
+type_const 3 K
+env_x 4 z
+val_x 5 z
+val_x 5 y
+val_appl 7 6
+val_func 8 z
